@@ -6,4 +6,4 @@ else
 end
 
 # write your own tests here
-@test 1 == 2
+@test TestThis.addme(4,5) == 9
