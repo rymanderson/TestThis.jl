@@ -12,6 +12,10 @@ function addme(a,b)
 	return a + b
 end
 
+function subtractme(a,b)
+	return a - b
+end
+
 function plotStuff(savehere::String)
 	a = [1,2,3,4]
 	b = [5,4,5,3]
