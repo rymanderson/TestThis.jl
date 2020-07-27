@@ -1,7 +1,7 @@
 module TestThis
 
 # package code goes here
-println("Sherlock! We are loading the module now...")
+println("Sherlock! We are loading the THIRD module now...")
 using PyPlot
 
 function greet(name)
